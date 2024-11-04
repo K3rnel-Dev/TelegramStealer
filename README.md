@@ -1,4 +1,7 @@
 ![CSHARP](https://img.shields.io/badge/Language-CSHARP-aquamarine?style=for-the-badge&logo=csharp)
+<img src="https://img.shields.io/github/v/release/K3rnel-Dev/TelegramStealer?style=for-the-badge&color=cyan">
+<img src="https://img.shields.io/github/downloads/K3rnel-Dev/TelegramStealer/total?style=for-the-badge&color=purple">
+
 ![Banner](banner.png) 
 
 ---
